@@ -1,0 +1,7 @@
+1.wypakowac folder i wrzucić go do "htdocs"
+2.odpalic XAMPP'a a na nim "Apache" oraz MySQL"
+3.kliknąć "Admin" na poziomie "MySQL"
+4.utworzyc nowa baze danych o nazwie "sklep"
+5.zaimportowac plik bazy danych "sklep"(z pobranego pliku)
+6.wejsc w link w przegladarce "localhost/sklep/customer/products.php?id=1"
+7.upewnić sie że w bazie danych w "orders" pojawiło się nowe zamówienie :)
